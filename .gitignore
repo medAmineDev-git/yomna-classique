@@ -47,3 +47,7 @@ cloudflare-env.d.ts
 
 # garder le modele de configuration
 !.env.example
+
+# secrets locaux wrangler
+.dev.vars
+.dev.vars.*
